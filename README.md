@@ -3,13 +3,16 @@
 Septembar to December 2022 
 ---
 `Datacamp`
-
+1. [Datacamp Python Skill Tracks](https://app.datacamp.com/learn/skill-tracks)
 `edX`
 1. [IBM Data Science](t.ly/u0gY)
 2. [Data Science by Harvard](tinyurl.com/2pzk39u5)
 3. [Statistics and Data Science](tinyurl.com/2nanrrp7)
 4. [Mathematics and Statistics Fundamentals](tinyurl.com/2luyjfae)
+---
 
+`kaggle`
+1. [Learn from kaggle](https://www.kaggle.com/learn)
 ---
 Books:
 ---
