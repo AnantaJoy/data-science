@@ -17,7 +17,7 @@ description: >-
 
 <div align="center">
 
-<img src="../.gitbook/assets/image.png" alt="সেটআপ উইন্ডো">
+<img src="../.gitbook/assets/image (1).png" alt="সেটআপ উইন্ডো">
 
 </div>
 
@@ -27,7 +27,7 @@ description: >-
 
 পাইথন আপনার কম্পিউটারে সফলভাবে ইন্সটল হয়েছে কিনা দেখার জন্য আপনাকে Windows Key প্রেস করে বা Windows সার্চবারে টাইপ করবেন IDLE. তারপর  IDLE তে ক্লিক করলে নিচের মতো একটা IDLE Shell ওপেন হবে।&#x20;
 
-![পাইথন IDLE](<../.gitbook/assets/image (1).png>)
+![পাইথন IDLE](../.gitbook/assets/image.png)
 
 যদি এতটুকু ঠিকমতো করতে পারেন তাহলে আপনি সফল ভাবে আপনার কম্পিউটারে পাইথন ইন্সটল করতে পেরেছেন।
 
