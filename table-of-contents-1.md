@@ -2,7 +2,9 @@
 
 
 
-**Introduction:** 1.1 Introduction to Python
+**Introduction:**&#x20;
+
+1.1 Introduction to Python
 
 * 1.1.1 Brief history and evolution
 * 1.1.2 Python's role in the programming ecosystem
@@ -14,7 +16,9 @@
 * 1.2.2 Configuring and using virtual environments
 * 1.2.3 Introduction to popular Python IDEs
 
-**Chapter 2: Python Basics** 2.1 Python Syntax and Structure
+**Chapter 2: Python Basics**&#x20;
+
+2.1 Python Syntax and Structure
 
 * 2.1.1 Variables and data types
 * 2.1.2 Basic operators and expressions
@@ -37,7 +41,9 @@
 * 2.4.1 Reading from and writing to files
 * 2.4.2 File handling best practices
 
-**Chapter 3: Object-Oriented Programming (OOP) in Python** 3.1 Introduction to OOP
+**Chapter 3: Object-Oriented Programming (OOP) in Python** 3
+
+.1 Introduction to OOP
 
 * 3.1.1 Classes and objects
 * 3.1.2 Inheritance and polymorphism
@@ -49,7 +55,9 @@
 * 3.2.2 Class methods and attributes
 * 3.2.3 Special methods and operator overloading
 
-**Chapter 4: Advanced Python Concepts** 4.1 Exception Handling
+**Chapter 4: Advanced Python Concepts**
+
+4.1 Exception Handling
 
 * 4.1.1 Understanding exceptions
 * 4.1.2 Handling exceptions using try-except blocks
@@ -67,7 +75,9 @@
 * 4.3.2 Using the `re` module
 * 4.3.3 Practical examples of regular expressions
 
-**Chapter 5: Python Libraries and Frameworks** 5.1 Overview of Python Standard Library
+**Chapter 5: Python Libraries and Frameworks**&#x20;
+
+5.1 Overview of Python Standard Library
 
 * 5.1.1 Commonly used modules in the standard library
 * 5.1.2 Exploring the `os`, `sys`, and `datetime` modules
@@ -78,7 +88,9 @@
 * 5.2.2 Pandas for data manipulation
 * 5.2.3 Matplotlib and Seaborn for data visualization
 
-**Chapter 6: Intermediate Topics in Python** 6.1 Working with APIs
+**Chapter 6: Intermediate Topics in Python**&#x20;
+
+6.1 Working with APIs
 
 * 6.1.1 Understanding APIs and RESTful Services
 * 6.1.2 Making HTTP requests with the `requests` module
